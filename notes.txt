@@ -1,0 +1,5 @@
+- in the 1000 tasks csv, there's a col called avg_HO_last_three_months but in the 5000 tasks csv it's called median_HO_last_three_months
+
+- when I joined the 1000 tasks table with the addresses table, I found 971 tasks that have different avg_HO in the tasks and address
+
+- we're not sure of the median/avg HO of the last 3 months
