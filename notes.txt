@@ -3,3 +3,5 @@
 - when I joined the 1000 tasks table with the addresses table, I found 971 tasks that have different avg_HO in the tasks and address
 
 - we're not sure of the median/avg HO of the last 3 months
+
+- we have only 275 distinct lat and lon pairs for 2312 unique addresses??
