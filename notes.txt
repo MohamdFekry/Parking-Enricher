@@ -5,3 +5,10 @@
 - we're not sure of the median/avg HO of the last 3 months
 
 - we have only 275 distinct lat and lon pairs for 2312 unique addresses??
+
+
+Try to segment the data by:
+
+phone_calls: do orders with fewer calls correlate with improved handover?
+
+p2a_time_seconds: does longer travel time correlate with worse handover?
