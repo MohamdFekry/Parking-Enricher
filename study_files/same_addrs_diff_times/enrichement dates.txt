@@ -1,0 +1,1 @@
+addresses started being enriched after 12/03/2025 so use the same very big query with created_at before that date to get not enriched addresses
